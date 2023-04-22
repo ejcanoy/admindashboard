@@ -1,0 +1,18 @@
+#To Do
+- [] Plan overall grid 
+- [] Create overall grid
+- [] Gather resources 
+- [] Plan side bar
+- [] Create side bar
+- [] Plan header
+- [] Create header
+- [] Plan main
+- [] Create main
+- [] Plan projects/(anouncements and trending) formatting and spacing
+- [] Create projects/(anouncements and trending) formatting and spacing
+- [] plan projects
+- [] Create projects
+- [] plan announcements
+- [] Create announcements
+- [] Plan trending
+- [] Create trending
