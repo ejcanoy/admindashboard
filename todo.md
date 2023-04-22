@@ -1,6 +1,6 @@
 #To Do
-- [] Plan overall grid 
-- [] Create overall grid
+- [x] Plan overall grid 
+- [x] Create overall grid
 - [] Gather resources 
 - [] Plan side bar
 - [] Create side bar
