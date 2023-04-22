@@ -2,11 +2,30 @@
 - [x] Plan overall grid 
 - [x] Create overall grid
 - [] Gather resources 
-- [] Plan side bar
+- [x] Plan side bar
+    - [x] logo
+    - [x] tabs
+        - [] items
+    - [x] setting
+        - [] items
 - [] Create side bar
-- [] Plan header
+- [x] Plan header
+    - [x] search
+        - [] bar
+        - [] notify/account
+    - [x] nav
+        - [] name
+        - [] buttons
 - [] Create header
 - [] Plan main
+    - [] projects
+        - [] cards
+            - [] placement icons with body
+    - [] right-side
+        - [] announcements
+            - [] articles
+        - [] trending
+            - [] icons
 - [] Create main
 - [] Plan projects/(anouncements and trending) formatting and spacing
 - [] Create projects/(anouncements and trending) formatting and spacing
