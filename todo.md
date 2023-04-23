@@ -5,9 +5,9 @@
 - [x] Plan side bar
     - [x] logo
     - [x] tabs
-        - [] items
+        - [x] items
     - [x] setting
-        - [] items
+        - [x] items
 - [] Create side bar
 - [x] Plan header
     - [x] search
