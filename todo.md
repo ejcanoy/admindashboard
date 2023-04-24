@@ -1,7 +1,9 @@
 #To Do
 - [x] Plan overall grid 
-- [x] Create overall grid
-- [] Gather resources 
+- [x] Create overall grid 
+- [] Gather resources
+    - [] Colors -> blue #4267B2 grey #898F9C black #000000
+    - [] Icons
 - [x] Plan side bar
     - [x] logo
     - [x] tabs
@@ -11,11 +13,11 @@
 - [] Create side bar
 - [x] Plan header
     - [x] search
-        - [] bar
-        - [] notify/account
+        - [x] bar
+        - [x] notify/account
     - [x] nav
-        - [] name
-        - [] buttons
+        - [x] name
+        - [x] buttons
 - [] Create header
 - [] Plan main
     - [] projects
@@ -23,15 +25,17 @@
             - [] placement icons with body
     - [] right-side
         - [] announcements
-            - [] articles
+            - [x] articles
         - [] trending
-            - [] icons
+            - [x] icons
 - [] Create main
-- [] Plan projects/(anouncements and trending) formatting and spacing
+- [x] Plan projects/(anouncements and trending) formatting and spacing
 - [] Create projects/(anouncements and trending) formatting and spacing
-- [] plan projects
+- [x] plan projects
 - [] Create projects
-- [] plan announcements
+- [x] plan announcements
 - [] Create announcements
-- [] Plan trending
+- [x] Plan trending
 - [] Create trending
+
+DON'T FORGET GAPPPPP FOR CARDS!
